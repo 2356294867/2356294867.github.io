@@ -1,0 +1,20 @@
+@import'reset.css';
+
+#headMessage li{
+    float:left;
+    line-height: 35px;
+    padding:0 10px;
+}
+
+#headMessage a{
+    color: #6c6c6c;
+}
+
+#headMessage a.login{
+    color: #f22e00;
+}
+/*#headMessage span{
+    font-size:12px;
+}*/
+
+
